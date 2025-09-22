@@ -15,7 +15,7 @@ The script uses several Python libraries such as `sqlite3`, `re`, `collections`,
 - Calculates:
   - Success rate percentage per host
   - Average, minimum, and maximum latency
-- Analyzes the **log file** and displays counts by severity level (INFO, WARNING, ERROR)
+- Analyzes the **log file** and displays counts by severity level (`INFO`, `WARNING`, `ERROR`)
 - Generates a clear **text report (`report.txt`)** with results
 - Outputs results to the console
 
