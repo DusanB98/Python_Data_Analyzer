@@ -1,7 +1,8 @@
 # 🌐 Network & 📑 Log Analyzer
 
 **Description:**
-This Python script analyzes data from server monitoring and logs generated during host pinging. It reads results from a **SQLite database** (`response_hosts_database.db`) and a **log file** (`response_hosts_log.log`), processes them, evaluates success rates, latency, and error occurrences. The output is a clear **report in a text file** (`report.txt`) with detailed statistics for each host.
+This Python script analyzes data from server monitoring and logs generated during host pinging. It reads results from a **SQLite database** (`response_hosts_database.db`) and a **log file** (`response_hosts_log.log`), processes them, evaluates success rates, latency, and error occurrences. 
+The output is a clear **report in a text file** (`report.txt`) with detailed statistics for each host.
 
 The script uses several Python libraries such as `sqlite3`, `re`, `collections`, `datetime`, and a custom module `network_automation_module`. Through this project, I learned how to work with databases, regular expressions, log parsing, report generation, and structured output in Python.
 
@@ -19,7 +20,7 @@ The script uses several Python libraries such as `sqlite3`, `re`, `collections`,
 - Outputs results to the console
 
 ## 📂 Database Structure
-The `response_hosts_database.db` contains a table called **`data`** with the following columns:
+The **`response_hosts_database.db`** contains a table called **`data`** with the following columns:
 - `Number` – auto-incremented ID
 - `Host` – hostname or IP address
 - `Status` – availability (✅ / ⚠️ / ❌)
