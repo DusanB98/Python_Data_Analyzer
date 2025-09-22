@@ -1,0 +1,590 @@
+2025-09-16 11:01:23 [INFO] myanimelist.net is available, latency 3.72 ms
+2025-09-16 11:01:23 [INFO] facebook.com is available, latency 6.29 ms
+2025-09-16 11:01:23 [INFO] google.com is available, latency 8.72 ms
+2025-09-16 11:01:23 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-16 11:01:23 [INFO] sfgame.net is available, latency 5.23 ms
+2025-09-16 11:01:23 [INFO] waikato.ac.nz is available, latency 15.80 ms
+2025-09-16 11:01:23 [WARNING] nic.cl is available, slower response, latency 253.00 ms
+2025-09-16 11:01:24 [WARNING] unam.mx is available, slower response, latency 172.00 ms
+2025-09-16 11:01:25 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 11:01:25 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 11:02:03 [INFO] myanimelist.net is available, latency 3.44 ms
+2025-09-16 11:02:03 [INFO] facebook.com is available, latency 6.36 ms
+2025-09-16 11:02:03 [INFO] google.com is available, latency 8.69 ms
+2025-09-16 11:02:03 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-16 11:02:03 [INFO] sfgame.net is available, latency 5.15 ms
+2025-09-16 11:02:03 [INFO] waikato.ac.nz is available, latency 16.00 ms
+2025-09-16 11:02:04 [WARNING] nic.cl is available, slower response, latency 254.00 ms
+2025-09-16 11:02:04 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-16 11:02:04 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 11:02:04 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 11:41:35 [INFO] myanimelist.net is available, latency 3.86 ms
+2025-09-16 11:41:35 [INFO] facebook.com is available, latency 6.64 ms
+2025-09-16 11:41:35 [INFO] google.com is available, latency 8.89 ms
+2025-09-16 11:41:36 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-16 11:41:36 [INFO] sfgame.net is available, latency 5.21 ms
+2025-09-16 11:41:36 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-16 11:41:36 [WARNING] nic.cl is available, slower response, latency 254.00 ms
+2025-09-16 11:41:37 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-16 11:41:37 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 11:41:37 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 11:52:58 [INFO] myanimelist.net is available, latency 3.69 ms
+2025-09-16 11:52:58 [INFO] facebook.com is available, latency 6.32 ms
+2025-09-16 11:52:58 [INFO] google.com is available, latency 8.79 ms
+2025-09-16 11:52:58 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-16 11:52:58 [INFO] sfgame.net is available, latency 5.30 ms
+2025-09-16 11:52:58 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-16 11:52:58 [WARNING] nic.cl is available, slower response, latency 256.00 ms
+2025-09-16 11:52:59 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-16 11:52:59 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 11:52:59 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 11:57:23 [INFO] myanimelist.net is available, latency 3.70 ms
+2025-09-16 11:57:23 [INFO] facebook.com is available, latency 6.18 ms
+2025-09-16 11:57:23 [INFO] google.com is available, latency 8.72 ms
+2025-09-16 11:57:23 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-16 11:57:24 [INFO] sfgame.net is available, latency 5.10 ms
+2025-09-16 11:57:24 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-16 11:57:24 [WARNING] nic.cl is available, slower response, latency 253.00 ms
+2025-09-16 11:57:24 [WARNING] unam.mx is available, slower response, latency 172.00 ms
+2025-09-16 11:57:24 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 11:57:24 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 13:42:35 [INFO] myanimelist.net is available, latency 3.91 ms
+2025-09-16 13:42:35 [INFO] facebook.com is available, latency 7.06 ms
+2025-09-16 13:42:35 [INFO] google.com is available, latency 8.63 ms
+2025-09-16 13:42:35 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-16 13:42:35 [INFO] sfgame.net is available, latency 5.23 ms
+2025-09-16 13:42:35 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-16 13:42:36 [WARNING] nic.cl is available, slower response, latency 253.00 ms
+2025-09-16 13:42:37 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-16 13:42:37 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 13:42:37 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-16 13:55:48 [INFO] myanimelist.net is available, latency 3.44 ms
+2025-09-16 13:55:48 [INFO] facebook.com is available, latency 5.83 ms
+2025-09-16 13:55:48 [INFO] google.com is available, latency 8.82 ms
+2025-09-16 13:55:48 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-16 13:55:48 [INFO] sfgame.net is available, latency 4.94 ms
+2025-09-16 13:55:48 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-16 13:55:49 [WARNING] nic.cl is available, slower response, latency 253.00 ms
+2025-09-16 13:55:50 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-16 13:55:50 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-16 13:55:50 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:29:01 [INFO] myanimelist.net is available, latency 3.59 ms
+2025-09-20 15:29:01 [INFO] facebook.com is available, latency 7.67 ms
+2025-09-20 15:29:01 [INFO] google.com is available, latency 8.84 ms
+2025-09-20 15:29:01 [INFO] nokia.com is available, latency 16.10 ms
+2025-09-20 15:29:01 [INFO] sfgame.net is available, latency 5.08 ms
+2025-09-20 15:29:01 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 15:29:02 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 15:29:02 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 15:29:02 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:29:02 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:30:29 [INFO] myanimelist.net is available, latency 3.64 ms
+2025-09-20 15:30:29 [INFO] facebook.com is available, latency 7.64 ms
+2025-09-20 15:30:29 [INFO] google.com is available, latency 8.94 ms
+2025-09-20 15:30:29 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 15:30:29 [INFO] sfgame.net is available, latency 5.04 ms
+2025-09-20 15:30:29 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-20 15:30:29 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:30:30 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 15:30:30 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:30:30 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:31:31 [INFO] myanimelist.net is available, latency 3.66 ms
+2025-09-20 15:31:31 [INFO] facebook.com is available, latency 7.52 ms
+2025-09-20 15:31:31 [INFO] google.com is available, latency 8.97 ms
+2025-09-20 15:31:31 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 15:31:31 [INFO] sfgame.net is available, latency 5.02 ms
+2025-09-20 15:31:31 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 15:31:31 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 15:31:32 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 15:31:32 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:31:32 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:32:24 [INFO] myanimelist.net is available, latency 3.57 ms
+2025-09-20 15:32:24 [INFO] facebook.com is available, latency 7.70 ms
+2025-09-20 15:32:24 [INFO] google.com is available, latency 8.77 ms
+2025-09-20 15:32:24 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 15:32:24 [INFO] sfgame.net is available, latency 5.15 ms
+2025-09-20 15:32:24 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-20 15:32:24 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 15:32:24 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 15:32:24 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:32:24 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:33:27 [INFO] myanimelist.net is available, latency 3.73 ms
+2025-09-20 15:33:27 [INFO] facebook.com is available, latency 7.75 ms
+2025-09-20 15:33:27 [INFO] google.com is available, latency 8.80 ms
+2025-09-20 15:33:27 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 15:33:27 [INFO] sfgame.net is available, latency 5.43 ms
+2025-09-20 15:33:27 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 15:33:27 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:33:27 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 15:33:27 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:33:27 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:35:37 [INFO] myanimelist.net is available, latency 6.54 ms
+2025-09-20 15:35:37 [INFO] facebook.com is available, latency 7.75 ms
+2025-09-20 15:35:37 [INFO] google.com is available, latency 9.09 ms
+2025-09-20 15:35:37 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 15:35:37 [INFO] sfgame.net is available, latency 5.27 ms
+2025-09-20 15:35:37 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 15:35:37 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 15:35:37 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 15:35:37 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:35:37 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:37:06 [INFO] myanimelist.net is available, latency 3.69 ms
+2025-09-20 15:37:06 [INFO] facebook.com is available, latency 8.09 ms
+2025-09-20 15:37:06 [INFO] google.com is available, latency 8.75 ms
+2025-09-20 15:37:06 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-20 15:37:06 [INFO] sfgame.net is available, latency 5.41 ms
+2025-09-20 15:37:06 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-20 15:37:06 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 15:37:06 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 15:37:06 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:37:06 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:37:46 [INFO] myanimelist.net is available, latency 3.57 ms
+2025-09-20 15:37:46 [INFO] facebook.com is available, latency 8.05 ms
+2025-09-20 15:37:46 [INFO] google.com is available, latency 8.64 ms
+2025-09-20 15:37:46 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 15:37:46 [INFO] sfgame.net is available, latency 5.23 ms
+2025-09-20 15:37:46 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-20 15:37:46 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:37:46 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 15:37:46 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:37:46 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:38:29 [INFO] myanimelist.net is available, latency 3.86 ms
+2025-09-20 15:38:29 [INFO] facebook.com is available, latency 7.85 ms
+2025-09-20 15:38:29 [INFO] google.com is available, latency 8.75 ms
+2025-09-20 15:38:29 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 15:38:29 [INFO] sfgame.net is available, latency 5.32 ms
+2025-09-20 15:38:29 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 15:38:29 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 15:38:29 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 15:38:29 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:38:29 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:40:59 [INFO] myanimelist.net is available, latency 3.56 ms
+2025-09-20 15:40:59 [INFO] facebook.com is available, latency 7.69 ms
+2025-09-20 15:40:59 [INFO] google.com is available, latency 8.63 ms
+2025-09-20 15:40:59 [INFO] nokia.com is available, latency 16.10 ms
+2025-09-20 15:40:59 [INFO] sfgame.net is available, latency 5.19 ms
+2025-09-20 15:40:59 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-20 15:40:59 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 15:40:59 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 15:40:59 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:40:59 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:41:23 [INFO] myanimelist.net is available, latency 3.50 ms
+2025-09-20 15:41:23 [INFO] facebook.com is available, latency 8.04 ms
+2025-09-20 15:41:23 [INFO] google.com is available, latency 8.80 ms
+2025-09-20 15:41:23 [INFO] nokia.com is available, latency 16.10 ms
+2025-09-20 15:41:23 [INFO] sfgame.net is available, latency 5.35 ms
+2025-09-20 15:41:23 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 15:41:24 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 15:41:24 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 15:41:24 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:41:24 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:41:52 [INFO] myanimelist.net is available, latency 3.65 ms
+2025-09-20 15:41:52 [INFO] facebook.com is available, latency 7.69 ms
+2025-09-20 15:41:52 [INFO] google.com is available, latency 8.76 ms
+2025-09-20 15:41:52 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 15:41:52 [INFO] sfgame.net is available, latency 5.32 ms
+2025-09-20 15:41:52 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-20 15:41:53 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 15:41:53 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 15:41:53 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:41:53 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:43:09 [INFO] myanimelist.net is available, latency 3.96 ms
+2025-09-20 15:43:09 [INFO] facebook.com is available, latency 8.11 ms
+2025-09-20 15:43:09 [INFO] google.com is available, latency 8.72 ms
+2025-09-20 15:43:09 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-20 15:43:09 [INFO] sfgame.net is available, latency 5.50 ms
+2025-09-20 15:43:09 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 15:43:09 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 15:43:10 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 15:43:10 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:43:10 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:44:53 [INFO] myanimelist.net is available, latency 3.71 ms
+2025-09-20 15:44:53 [INFO] facebook.com is available, latency 7.47 ms
+2025-09-20 15:44:53 [INFO] google.com is available, latency 8.70 ms
+2025-09-20 15:44:53 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 15:44:53 [INFO] sfgame.net is available, latency 5.02 ms
+2025-09-20 15:44:53 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 15:44:53 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:44:53 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 15:44:53 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:44:53 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:45:09 [INFO] myanimelist.net is available, latency 3.99 ms
+2025-09-20 15:45:09 [INFO] facebook.com is available, latency 7.66 ms
+2025-09-20 15:45:09 [INFO] google.com is available, latency 8.58 ms
+2025-09-20 15:45:09 [INFO] nokia.com is available, latency 15.80 ms
+2025-09-20 15:45:10 [INFO] sfgame.net is available, latency 5.34 ms
+2025-09-20 15:45:10 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 15:45:10 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 15:45:10 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 15:45:10 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:45:10 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:57:10 [INFO] myanimelist.net is available, latency 3.84 ms
+2025-09-20 15:57:10 [INFO] facebook.com is available, latency 8.09 ms
+2025-09-20 15:57:10 [INFO] google.com is available, latency 8.99 ms
+2025-09-20 15:57:10 [INFO] nokia.com is available, latency 17.20 ms
+2025-09-20 15:57:10 [INFO] sfgame.net is available, latency 5.45 ms
+2025-09-20 15:57:10 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-20 15:57:10 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:57:11 [WARNING] unam.mx is available, slower response, latency 167.00 ms
+2025-09-20 15:57:11 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:57:11 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 15:59:42 [INFO] myanimelist.net is available, latency 3.75 ms
+2025-09-20 15:59:42 [INFO] facebook.com is available, latency 8.07 ms
+2025-09-20 15:59:42 [INFO] google.com is available, latency 9.07 ms
+2025-09-20 15:59:42 [INFO] nokia.com is available, latency 16.10 ms
+2025-09-20 15:59:42 [INFO] sfgame.net is available, latency 5.16 ms
+2025-09-20 15:59:42 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-20 15:59:42 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 15:59:43 [WARNING] unam.mx is available, slower response, latency 167.00 ms
+2025-09-20 15:59:43 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 15:59:43 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:01:07 [INFO] myanimelist.net is available, latency 3.78 ms
+2025-09-20 16:01:08 [INFO] facebook.com is available, latency 8.00 ms
+2025-09-20 16:01:08 [INFO] google.com is available, latency 8.81 ms
+2025-09-20 16:01:08 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:01:08 [INFO] sfgame.net is available, latency 6.79 ms
+2025-09-20 16:01:08 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 16:01:08 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:01:08 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:01:08 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:01:08 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:02:01 [INFO] myanimelist.net is available, latency 3.71 ms
+2025-09-20 16:02:01 [INFO] facebook.com is available, latency 7.64 ms
+2025-09-20 16:02:01 [INFO] google.com is available, latency 9.92 ms
+2025-09-20 16:02:01 [INFO] nokia.com is available, latency 16.00 ms
+2025-09-20 16:02:01 [INFO] sfgame.net is available, latency 5.25 ms
+2025-09-20 16:02:01 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 16:02:01 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:02:02 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:02:02 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:02:02 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:03:48 [INFO] myanimelist.net is available, latency 3.79 ms
+2025-09-20 16:03:48 [INFO] facebook.com is available, latency 7.64 ms
+2025-09-20 16:03:48 [INFO] google.com is available, latency 8.66 ms
+2025-09-20 16:03:48 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:03:48 [INFO] sfgame.net is available, latency 5.23 ms
+2025-09-20 16:03:48 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-20 16:03:48 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:03:49 [WARNING] unam.mx is available, slower response, latency 167.00 ms
+2025-09-20 16:03:49 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:03:49 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:13:39 [INFO] myanimelist.net is available, latency 3.53 ms
+2025-09-20 16:13:39 [INFO] facebook.com is available, latency 8.08 ms
+2025-09-20 16:13:39 [INFO] google.com is available, latency 8.89 ms
+2025-09-20 16:13:39 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:13:39 [INFO] sfgame.net is available, latency 5.18 ms
+2025-09-20 16:13:39 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 16:13:39 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:13:40 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:13:40 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:13:40 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:14:48 [INFO] myanimelist.net is available, latency 3.66 ms
+2025-09-20 16:14:48 [INFO] facebook.com is available, latency 7.51 ms
+2025-09-20 16:14:48 [INFO] google.com is available, latency 8.70 ms
+2025-09-20 16:14:48 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:14:49 [INFO] sfgame.net is available, latency 5.19 ms
+2025-09-20 16:14:49 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-20 16:14:49 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:14:49 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:14:49 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:14:49 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:15:28 [INFO] myanimelist.net is available, latency 3.63 ms
+2025-09-20 16:15:28 [INFO] facebook.com is available, latency 7.65 ms
+2025-09-20 16:15:28 [INFO] google.com is available, latency 8.88 ms
+2025-09-20 16:15:29 [INFO] nokia.com is available, latency 16.60 ms
+2025-09-20 16:15:29 [INFO] sfgame.net is available, latency 5.22 ms
+2025-09-20 16:15:29 [INFO] waikato.ac.nz is available, latency 16.50 ms
+2025-09-20 16:15:29 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:15:29 [WARNING] unam.mx is available, slower response, latency 159.00 ms
+2025-09-20 16:15:29 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:15:29 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:15:51 [INFO] myanimelist.net is available, latency 3.73 ms
+2025-09-20 16:15:51 [INFO] facebook.com is available, latency 7.87 ms
+2025-09-20 16:15:51 [INFO] google.com is available, latency 8.74 ms
+2025-09-20 16:15:51 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 16:15:51 [INFO] sfgame.net is available, latency 5.29 ms
+2025-09-20 16:15:51 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 16:15:51 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:15:51 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:15:51 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:15:51 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:16:29 [INFO] myanimelist.net is available, latency 3.74 ms
+2025-09-20 16:16:29 [INFO] facebook.com is available, latency 7.57 ms
+2025-09-20 16:16:29 [INFO] google.com is available, latency 8.94 ms
+2025-09-20 16:16:29 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-20 16:16:29 [INFO] sfgame.net is available, latency 5.12 ms
+2025-09-20 16:16:29 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-20 16:16:30 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:16:30 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:16:30 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:16:30 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:17:04 [INFO] myanimelist.net is available, latency 4.10 ms
+2025-09-20 16:17:04 [INFO] facebook.com is available, latency 7.97 ms
+2025-09-20 16:17:04 [INFO] google.com is available, latency 9.00 ms
+2025-09-20 16:17:04 [INFO] nokia.com is available, latency 15.60 ms
+2025-09-20 16:17:04 [INFO] sfgame.net is available, latency 5.44 ms
+2025-09-20 16:17:04 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 16:17:04 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:17:04 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:17:04 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:17:04 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:17:58 [INFO] myanimelist.net is available, latency 3.52 ms
+2025-09-20 16:17:58 [INFO] facebook.com is available, latency 7.99 ms
+2025-09-20 16:17:58 [INFO] google.com is available, latency 9.00 ms
+2025-09-20 16:17:58 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:17:58 [INFO] sfgame.net is available, latency 5.19 ms
+2025-09-20 16:17:58 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-20 16:17:59 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 16:17:59 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:17:59 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:17:59 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:18:42 [INFO] myanimelist.net is available, latency 3.52 ms
+2025-09-20 16:18:42 [INFO] facebook.com is available, latency 8.21 ms
+2025-09-20 16:18:42 [INFO] google.com is available, latency 11.60 ms
+2025-09-20 16:18:42 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:18:42 [INFO] sfgame.net is available, latency 5.47 ms
+2025-09-20 16:18:43 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 16:18:43 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:18:43 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:18:43 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:18:43 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:18:54 [INFO] myanimelist.net is available, latency 3.80 ms
+2025-09-20 16:18:54 [INFO] facebook.com is available, latency 8.02 ms
+2025-09-20 16:18:54 [INFO] google.com is available, latency 8.79 ms
+2025-09-20 16:18:54 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:18:54 [INFO] sfgame.net is available, latency 5.42 ms
+2025-09-20 16:18:54 [INFO] waikato.ac.nz is available, latency 16.00 ms
+2025-09-20 16:18:54 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:18:55 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:18:55 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:18:55 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:19:07 [INFO] myanimelist.net is available, latency 3.53 ms
+2025-09-20 16:19:07 [INFO] facebook.com is available, latency 7.75 ms
+2025-09-20 16:19:08 [INFO] google.com is available, latency 8.99 ms
+2025-09-20 16:19:08 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:19:09 [INFO] sfgame.net is available, latency 5.17 ms
+2025-09-20 16:19:09 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 16:19:09 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:19:09 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:19:09 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:19:09 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:19:40 [INFO] myanimelist.net is available, latency 3.78 ms
+2025-09-20 16:19:40 [INFO] facebook.com is available, latency 7.63 ms
+2025-09-20 16:19:40 [INFO] google.com is available, latency 8.95 ms
+2025-09-20 16:19:40 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:19:40 [INFO] sfgame.net is available, latency 5.26 ms
+2025-09-20 16:19:40 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 16:19:40 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:19:40 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:19:40 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:19:41 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:20:12 [INFO] myanimelist.net is available, latency 3.90 ms
+2025-09-20 16:20:12 [INFO] facebook.com is available, latency 7.63 ms
+2025-09-20 16:20:12 [INFO] google.com is available, latency 8.95 ms
+2025-09-20 16:20:12 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:20:12 [INFO] sfgame.net is available, latency 5.56 ms
+2025-09-20 16:20:12 [INFO] waikato.ac.nz is available, latency 18.00 ms
+2025-09-20 16:20:12 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:20:13 [WARNING] unam.mx is available, slower response, latency 167.00 ms
+2025-09-20 16:20:13 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:20:13 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:21:19 [INFO] myanimelist.net is available, latency 3.64 ms
+2025-09-20 16:21:19 [INFO] facebook.com is available, latency 9.57 ms
+2025-09-20 16:21:19 [INFO] google.com is available, latency 8.56 ms
+2025-09-20 16:21:19 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:21:19 [INFO] sfgame.net is available, latency 5.21 ms
+2025-09-20 16:21:19 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 16:21:19 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 16:21:19 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:21:19 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:21:19 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:22:12 [INFO] myanimelist.net is available, latency 3.84 ms
+2025-09-20 16:22:12 [INFO] facebook.com is available, latency 7.86 ms
+2025-09-20 16:22:12 [INFO] google.com is available, latency 9.12 ms
+2025-09-20 16:22:12 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:22:12 [INFO] sfgame.net is available, latency 5.20 ms
+2025-09-20 16:22:12 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-20 16:22:12 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:22:12 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:22:12 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:22:12 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:22:59 [INFO] myanimelist.net is available, latency 3.78 ms
+2025-09-20 16:22:59 [INFO] facebook.com is available, latency 7.66 ms
+2025-09-20 16:22:59 [INFO] google.com is available, latency 8.84 ms
+2025-09-20 16:22:59 [INFO] nokia.com is available, latency 15.90 ms
+2025-09-20 16:22:59 [INFO] sfgame.net is available, latency 5.23 ms
+2025-09-20 16:22:59 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-20 16:23:00 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-20 16:23:00 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:23:00 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:23:00 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:23:09 [INFO] myanimelist.net is available, latency 3.97 ms
+2025-09-20 16:23:09 [INFO] facebook.com is available, latency 8.02 ms
+2025-09-20 16:23:09 [INFO] google.com is available, latency 9.14 ms
+2025-09-20 16:23:09 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 16:23:09 [INFO] sfgame.net is available, latency 5.22 ms
+2025-09-20 16:23:09 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-20 16:23:10 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:23:10 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:23:10 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:23:10 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:33:07 [INFO] myanimelist.net is available, latency 3.57 ms
+2025-09-20 16:33:07 [INFO] facebook.com is available, latency 7.65 ms
+2025-09-20 16:33:07 [INFO] google.com is available, latency 8.78 ms
+2025-09-20 16:33:07 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-20 16:33:07 [INFO] sfgame.net is available, latency 5.34 ms
+2025-09-20 16:33:07 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-20 16:33:07 [WARNING] nic.cl is available, slower response, latency 238.00 ms
+2025-09-20 16:33:08 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:33:08 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:33:08 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:33:55 [INFO] myanimelist.net is available, latency 3.79 ms
+2025-09-20 16:33:55 [INFO] facebook.com is available, latency 7.74 ms
+2025-09-20 16:33:55 [INFO] google.com is available, latency 8.56 ms
+2025-09-20 16:33:55 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 16:33:55 [INFO] sfgame.net is available, latency 5.16 ms
+2025-09-20 16:33:55 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 16:33:55 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:33:56 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 16:33:56 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:33:56 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:34:25 [INFO] myanimelist.net is available, latency 3.94 ms
+2025-09-20 16:34:25 [INFO] facebook.com is available, latency 7.68 ms
+2025-09-20 16:34:25 [INFO] google.com is available, latency 8.55 ms
+2025-09-20 16:34:25 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:34:25 [INFO] sfgame.net is available, latency 5.48 ms
+2025-09-20 16:34:25 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 16:34:25 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:34:26 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:34:26 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:34:26 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:35:11 [INFO] myanimelist.net is available, latency 3.64 ms
+2025-09-20 16:35:11 [INFO] facebook.com is available, latency 8.10 ms
+2025-09-20 16:35:11 [INFO] google.com is available, latency 9.02 ms
+2025-09-20 16:35:11 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:35:11 [INFO] sfgame.net is available, latency 6.95 ms
+2025-09-20 16:35:11 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 16:35:21 [ERROR] nic.cl no response, latency 0.00 ms
+2025-09-20 16:35:22 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:35:22 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:35:22 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:40:11 [INFO] myanimelist.net is available, latency 3.92 ms
+2025-09-20 16:40:11 [INFO] facebook.com is available, latency 7.56 ms
+2025-09-20 16:40:11 [INFO] google.com is available, latency 8.71 ms
+2025-09-20 16:40:11 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-20 16:40:11 [INFO] sfgame.net is available, latency 5.76 ms
+2025-09-20 16:40:11 [INFO] waikato.ac.nz is available, latency 17.10 ms
+2025-09-20 16:40:11 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:40:11 [WARNING] unam.mx is available, slower response, latency 164.00 ms
+2025-09-20 16:40:11 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:40:11 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:49:56 [INFO] myanimelist.net is available, latency 3.57 ms
+2025-09-20 16:49:56 [INFO] facebook.com is available, latency 7.62 ms
+2025-09-20 16:49:56 [INFO] google.com is available, latency 8.61 ms
+2025-09-20 16:49:57 [INFO] nokia.com is available, latency 16.20 ms
+2025-09-20 16:49:57 [INFO] sfgame.net is available, latency 5.02 ms
+2025-09-20 16:49:57 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-20 16:49:57 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-20 16:49:57 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-20 16:49:57 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:49:58 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 16:54:48 [INFO] myanimelist.net is available, latency 3.59 ms
+2025-09-20 16:54:48 [INFO] facebook.com is available, latency 7.61 ms
+2025-09-20 16:54:48 [INFO] google.com is available, latency 8.95 ms
+2025-09-20 16:54:48 [INFO] nokia.com is available, latency 16.30 ms
+2025-09-20 16:54:48 [INFO] sfgame.net is available, latency 5.45 ms
+2025-09-20 16:54:48 [INFO] waikato.ac.nz is available, latency 16.60 ms
+2025-09-20 16:54:48 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 16:54:48 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-20 16:54:48 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 16:54:48 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 17:07:58 [INFO] myanimelist.net is available, latency 3.63 ms
+2025-09-20 17:07:58 [INFO] facebook.com is available, latency 7.75 ms
+2025-09-20 17:07:58 [INFO] google.com is available, latency 8.63 ms
+2025-09-20 17:07:58 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-20 17:07:58 [INFO] sfgame.net is available, latency 5.25 ms
+2025-09-20 17:07:59 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-20 17:07:59 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 17:07:59 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 17:07:59 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 17:07:59 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-20 17:08:33 [INFO] myanimelist.net is available, latency 3.60 ms
+2025-09-20 17:08:33 [INFO] facebook.com is available, latency 7.96 ms
+2025-09-20 17:08:33 [INFO] google.com is available, latency 8.90 ms
+2025-09-20 17:08:33 [INFO] nokia.com is available, latency 15.70 ms
+2025-09-20 17:08:33 [INFO] sfgame.net is available, latency 5.27 ms
+2025-09-20 17:08:33 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-20 17:08:33 [WARNING] nic.cl is available, slower response, latency 236.00 ms
+2025-09-20 17:08:33 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-20 17:08:33 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-20 17:08:33 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 14:45:45 [INFO] myanimelist.net is available, latency 3.88 ms
+2025-09-22 14:45:45 [INFO] facebook.com is available, latency 7.71 ms
+2025-09-22 14:45:45 [INFO] google.com is available, latency 8.90 ms
+2025-09-22 14:45:45 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-22 14:45:45 [INFO] sfgame.net is available, latency 5.58 ms
+2025-09-22 14:45:45 [INFO] waikato.ac.nz is available, latency 17.00 ms
+2025-09-22 14:45:45 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-22 14:45:46 [WARNING] unam.mx is available, slower response, latency 166.00 ms
+2025-09-22 14:45:46 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 14:45:46 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:11:40 [INFO] myanimelist.net is available, latency 4.02 ms
+2025-09-22 15:11:40 [INFO] facebook.com is available, latency 7.79 ms
+2025-09-22 15:11:40 [INFO] google.com is available, latency 9.13 ms
+2025-09-22 15:11:40 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-22 15:11:40 [INFO] sfgame.net is available, latency 5.84 ms
+2025-09-22 15:11:40 [INFO] waikato.ac.nz is available, latency 16.90 ms
+2025-09-22 15:11:40 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-22 15:11:41 [WARNING] unam.mx is available, slower response, latency 162.00 ms
+2025-09-22 15:11:41 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:11:41 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:13:30 [INFO] myanimelist.net is available, latency 3.71 ms
+2025-09-22 15:13:30 [INFO] facebook.com is available, latency 7.77 ms
+2025-09-22 15:13:30 [INFO] google.com is available, latency 8.87 ms
+2025-09-22 15:13:30 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-22 15:13:30 [INFO] sfgame.net is available, latency 5.06 ms
+2025-09-22 15:13:30 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-22 15:13:30 [WARNING] nic.cl is available, slower response, latency 240.00 ms
+2025-09-22 15:13:31 [WARNING] unam.mx is available, slower response, latency 165.00 ms
+2025-09-22 15:13:31 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:13:31 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:13:59 [INFO] myanimelist.net is available, latency 3.28 ms
+2025-09-22 15:13:59 [INFO] facebook.com is available, latency 7.68 ms
+2025-09-22 15:13:59 [INFO] google.com is available, latency 8.71 ms
+2025-09-22 15:13:59 [INFO] nokia.com is available, latency 16.50 ms
+2025-09-22 15:13:59 [INFO] sfgame.net is available, latency 5.22 ms
+2025-09-22 15:13:59 [INFO] waikato.ac.nz is available, latency 16.40 ms
+2025-09-22 15:13:59 [WARNING] nic.cl is available, slower response, latency 237.00 ms
+2025-09-22 15:14:00 [WARNING] unam.mx is available, slower response, latency 161.00 ms
+2025-09-22 15:14:00 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:14:00 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:15:31 [INFO] myanimelist.net is available, latency 3.93 ms
+2025-09-22 15:15:31 [INFO] facebook.com is available, latency 7.86 ms
+2025-09-22 15:15:31 [INFO] google.com is available, latency 8.61 ms
+2025-09-22 15:15:31 [INFO] nokia.com is available, latency 16.60 ms
+2025-09-22 15:15:31 [INFO] sfgame.net is available, latency 5.09 ms
+2025-09-22 15:15:31 [INFO] waikato.ac.nz is available, latency 16.80 ms
+2025-09-22 15:15:32 [WARNING] nic.cl is available, slower response, latency 239.00 ms
+2025-09-22 15:15:32 [WARNING] unam.mx is available, slower response, latency 161.00 ms
+2025-09-22 15:15:32 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:15:32 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:16:49 [INFO] myanimelist.net is available, latency 3.57 ms
+2025-09-22 15:16:49 [INFO] facebook.com is available, latency 7.65 ms
+2025-09-22 15:16:49 [INFO] google.com is available, latency 8.84 ms
+2025-09-22 15:16:49 [INFO] nokia.com is available, latency 16.10 ms
+2025-09-22 15:16:49 [INFO] sfgame.net is available, latency 5.45 ms
+2025-09-22 15:16:49 [INFO] waikato.ac.nz is available, latency 16.70 ms
+2025-09-22 15:16:50 [WARNING] nic.cl is available, slower response, latency 240.00 ms
+2025-09-22 15:16:50 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-22 15:16:50 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:16:50 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
+2025-09-22 15:58:28 [INFO] myanimelist.net is available, latency 3.59 ms
+2025-09-22 15:58:28 [INFO] facebook.com is available, latency 7.57 ms
+2025-09-22 15:58:28 [INFO] google.com is available, latency 8.91 ms
+2025-09-22 15:58:28 [INFO] nokia.com is available, latency 16.40 ms
+2025-09-22 15:58:28 [INFO] sfgame.net is available, latency 5.17 ms
+2025-09-22 15:58:28 [INFO] waikato.ac.nz is available, latency 16.20 ms
+2025-09-22 15:58:28 [WARNING] nic.cl is available, slower response, latency 240.00 ms
+2025-09-22 15:58:29 [WARNING] unam.mx is available, slower response, latency 160.00 ms
+2025-09-22 15:58:29 [ERROR] thispagedoesnotexist12345.com no response, latency 0.00 ms
+2025-09-22 15:58:29 [ERROR] thispagedoesnotexistoo9879.com no response, latency 0.00 ms
