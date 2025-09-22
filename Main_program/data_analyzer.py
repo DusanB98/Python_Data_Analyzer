@@ -119,9 +119,9 @@ def analyze_data(database_path, hosts):
             count_numb_avg += 1                          # counting how many numbers are in a list
 
         # avg, min, max, filter zero
-        avg_latency = latency_group / count_numb_avg
         filter_zero = list(filter(lambda zero: zero > 0.00, latency_values))
-        
+        avg_latency = latency_group / count_numb_avg
+
         if filter_zero:
             min_latency = min(filter_zero)
             max_latency = max(filter_zero)
